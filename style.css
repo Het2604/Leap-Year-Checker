@@ -1,0 +1,37 @@
+
+body {
+
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    width: 50vw;
+   
+}
+    
+div{
+    background-color: aqua;
+    height: 30vh;
+    padding-left: 20px;
+    
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+    background-color: rgb(14, 207, 255);
+    color: rgb(4, 8, 11);
+    
+}
+
+#result {
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+}
+input{
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+    width: 30vw;
+}
